@@ -10,7 +10,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="springbootwebapplication" target="10" />
+      <module name="springbootwebapplication" target="8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="PREFER_TARGET_JDK_COMPILER" value="false" />
   </component>
 </project>
